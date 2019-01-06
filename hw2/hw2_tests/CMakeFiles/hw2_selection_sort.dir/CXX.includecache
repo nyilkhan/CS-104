@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs104/cs104/hw-nyilkhan/hw2/selection_sort.cpp
+iostream
+-
+sstream
+-
+cstring
+-
+selection_sort.h
+/home/cs104/cs104/hw-nyilkhan/hw2/selection_sort.h
+
+/home/cs104/cs104/hw-nyilkhan/hw2/selection_sort.h
+

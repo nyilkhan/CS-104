@@ -1,0 +1,25 @@
+Test MSortTest.SortEmpty passed
+Test MSortTest.SortSingleElement passed
+Test MSortTest.SortTwoElements_InOrder passed
+Test MSortTest.SortTwoElements_OutOfOrder passed
+Test MSortTest.SortThreeElements_10_20_30 passed
+Test MSortTest.SortThreeElements_10_30_20 passed
+Test MSortTest.SortThreeElements_20_10_30 passed
+Test MSortTest.SortThreeElements_20_30_10 passed
+Test MSortTest.SortThreeElements_30_10_20 passed
+Test MSortTest.SortThreeElements_30_20_10 passed
+Test MSortTest.SortThreeElements_Greater passed
+Test MSortTest.SortStrings passed
+Test MSortTest.SortPairs passed
+Test MSortTest.Split_k_20 passed
+Test MSortTest.Split_k_50 passed
+Test MSortTest.Split_k_100 passed
+Test MSortTest.Split_k_200 passed
+Test MSortTest.Stress10Elements_Less passed
+Test MSortTest.Stress100Elements_Less passed
+Test MSortTest.Stress1000Elements_Less passed
+Test MSortTest.Stress10000Elements_Less passed
+Test MergeSortRuntime.KEqual2 passed
+Test MergeSortRuntime.KEqualN passed
+
+All Test Cases Passed

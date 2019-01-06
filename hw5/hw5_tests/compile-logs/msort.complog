@@ -1,0 +1,14 @@
+[ 10%] Built target perf
+[ 20%] Built target hw5_functor
+[ 65%] Built target kwsys
+[ 90%] Built target testing_utils
+[ 95%] Building CXX object msort_tests/CMakeFiles/msort_test.dir/msort_tests.cpp.o
+[100%] Linking CXX executable msort_test
+[100%] Built target msort_test
+[ 10%] Built target perf
+[ 20%] Built target hw5_functor
+[ 65%] Built target kwsys
+[ 90%] Built target testing_utils
+[ 95%] Building CXX object msort_tests/CMakeFiles/msort_runtime_test.dir/msort_runtime_tests.cpp.o
+[100%] Linking CXX executable msort_runtime_test
+[100%] Built target msort_runtime_test

@@ -1,0 +1,15 @@
+Test FunctorSimple.Numbers passed
+Test FunctorSimple.CapitalLetters passed
+Test FunctorSimple.Word1 passed
+Test FunctorSimple.Word2 passed
+Test FunctorSimple.RepeatedCharacter passed
+Test FunctorSimple.LongWord passed
+Test FunctorSimple.ExactValue passed
+Test FunctorTiebreaker.SimpleLexicographic passed
+Test FunctorTiebreaker.ComplexLexicographic passed
+Test FunctorTiebreaker.NotLexicographic passed
+Test FunctorTiebreaker.Equal passed
+Test FunctorUnknownChars.TreatedAsZero passed
+Test FunctorUnknownChars.EmptyString passed
+
+All Test Cases Passed

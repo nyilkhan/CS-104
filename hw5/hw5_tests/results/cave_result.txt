@@ -1,0 +1,15 @@
+Test Cave.OneMove passed
+Test Cave.TwoMoves passed
+Test Cave.OneTripEW passed
+Test Cave.OneTripWE passed
+Test Cave.OneTripNS passed
+Test Cave.SmallLoop passed
+Test Cave.LargeLoop passed
+Test Cave.LoopRetrace passed
+Test Cave.Branching passed
+Test Cave.RightMovesWrongOrder passed
+Test CaveStress.TenThousandMoves passed
+Test CaveStress.RandomMovements passed
+Test CaveStress.RandomCorrectPath passed
+
+All Test Cases Passed

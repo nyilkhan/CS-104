@@ -1,0 +1,7 @@
+/home/cs104/cs104/hw-nyilkhan/hw5/CMakeFiles/test.dir
+/home/cs104/cs104/hw-nyilkhan/hw5/CMakeFiles/edit_cache.dir
+/home/cs104/cs104/hw-nyilkhan/hw5/CMakeFiles/rebuild_cache.dir
+/home/cs104/cs104/hw-nyilkhan/hw5/CMakeFiles/Fatalist-Test.dir
+/home/cs104/cs104/hw-nyilkhan/hw5/CMakeFiles/Functor-Test.dir
+/home/cs104/cs104/hw-nyilkhan/hw5/CMakeFiles/Merge-Test.dir
+/home/cs104/cs104/hw-nyilkhan/hw5/CMakeFiles/Cave-Test.dir

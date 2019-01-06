@@ -1,0 +1,1892 @@
+9 is a Duck.
+
+16 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+35 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+59 is a Duck.
+
+26 is a Duck.
+
+72 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+16 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+35 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+59 is a Duck.
+
+26 is a Duck.
+
+72 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+16 is a Goose!
+
+1 took 16's spot!
+
+9 is a Duck.
+
+16 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+35 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+26 is a Duck.
+
+72 is a Duck.
+
+80 is a Goose!
+
+16 took 80's spot!
+
+9 is a Duck.
+
+16 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Goose!
+
+80 is out!
+
+1 was chosen as the new it.
+
+9 is a Duck.
+
+16 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+35 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+72 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+16 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+35 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+72 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+16 is a Duck.
+
+23 is a Goose!
+
+1 is out!
+
+10 was chosen as the new it.
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+35 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+72 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+35 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+72 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+23 is a Goose!
+
+10 is out!
+
+0 was chosen as the new it.
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+72 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+72 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+34 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+72 is a Duck.
+
+80 is a Goose!
+
+0 took 80's spot!
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+0 is a Goose!
+
+80 is out!
+
+14 was chosen as the new it.
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+72 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Goose!
+
+14 is out!
+
+3 was chosen as the new it.
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+9 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+80 is a Goose!
+
+3 took 80's spot!
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Goose!
+
+80 is out!
+
+13 was chosen as the new it.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Goose!
+
+13 is out!
+
+1 was chosen as the new it.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+73 is a Duck.
+
+52 is a Goose!
+
+1 took 52's spot!
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+1 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+1 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+1 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Goose!
+
+52 is out!
+
+0 was chosen as the new it.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+1 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Goose!
+
+0 took 67's spot!
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+50 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Goose!
+
+67 took 46's spot!
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+14 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Goose!
+
+46 took 23's spot!
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Goose!
+
+23 took 51's spot!
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+23 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+23 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+23 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Goose!
+
+51 is out!
+
+3 was chosen as the new it.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+28 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Goose!
+
+3 is out!
+
+2 was chosen as the new it.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+39 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Goose!
+
+2 is out!
+
+5 was chosen as the new it.
+
+23 is a Duck.
+
+67 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+67 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Goose!
+
+5 took 23's spot!
+
+23 is a Duck.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+46 is a Duck.
+
+61 is a Goose!
+
+23 took 61's spot!
+
+23 is a Duck.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Goose!
+
+61 is out!
+
+6 was chosen as the new it.
+
+23 is a Duck.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+61 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Goose!
+
+6 is out!
+
+0 was chosen as the new it.
+
+23 is a Duck.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Goose!
+
+0 is out!
+
+1 was chosen as the new it.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+67 is a Duck.
+
+12 is a Duck.
+
+51 is a Goose!
+
+1 is out!
+
+0 was chosen as the new it.
+
+5 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Goose!
+
+0 is out!
+
+1 was chosen as the new it.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+12 is a Duck.
+
+51 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Goose!
+
+1 is out!
+
+2 was chosen as the new it.
+
+12 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+12 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+80 is a Goose!
+
+2 took 80's spot!
+
+12 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+2 is a Duck.
+
+3 is a Duck.
+
+23 is a Duck.
+
+5 is a Duck.
+
+12 is a Duck.
+
+52 is a Duck.
+
+0 is a Goose!
+
+80 took 0's spot!
+
+80 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+2 is a Duck.
+
+3 is a Duck.
+
+23 is a Goose!
+
+0 took 23's spot!
+
+80 is a Duck.
+
+52 is a Duck.
+
+0 is a Duck.
+
+2 is a Duck.
+
+3 is a Goose!
+
+23 is out!
+
+2 was chosen as the new it.
+
+80 is a Duck.
+
+52 is a Goose!
+
+2 is out!
+
+0 was chosen as the new it.
+
+80 is a Duck.
+
+52 is a Duck.
+
+3 is a Duck.
+
+23 is a Goose!
+
+0 took 23's spot!
+
+80 is a Duck.
+
+52 is a Duck.
+
+3 is a Duck.
+
+0 is a Duck.
+
+5 is a Duck.
+
+80 is a Duck.
+
+52 is a Duck.
+
+3 is a Goose!
+
+23 is out!
+
+Winner is 3!
+
+80 is a Duck.
+
+52 is a Duck.
+
+3 is a Duck.
+
+5 is a Goose!
+
+23 took 5's spot!
+
+Winner is 5!
+
+80 is a Duck.
+
+23 is a Goose!
+
+5 took 23's spot!
+
+Winner is 23!
+
+80 is a Goose!
+
+23 took 80's spot!
+
+Winner is 80!
+
+23 is a Duck.
+
+23 is a Duck.
+
+3 is a Goose!
+
+80 took 3's spot!
+
+Winner is 3!
+
+23 is a Duck.
+
+23 is a Duck.
+
+3 is a Duck.
+
+80 is a Goose!
+
+3 is out!
+

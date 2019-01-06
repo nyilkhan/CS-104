@@ -1,0 +1,180 @@
+8 is a Duck.
+
+953 is a Duck.
+
+4 is a Duck.
+
+200 is a Duck.
+
+68 is a Duck.
+
+68 is a Duck.
+
+8 is a Duck.
+
+953 is a Goose!
+
+2 took 953's spot!
+
+8 is a Duck.
+
+953 is a Duck.
+
+4 is a Duck.
+
+200 is a Duck.
+
+68 is a Duck.
+
+2 is a Duck.
+
+8 is a Duck.
+
+953 is a Duck.
+
+4 is a Duck.
+
+200 is a Duck.
+
+68 is a Duck.
+
+2 is a Duck.
+
+8 is a Duck.
+
+953 is a Duck.
+
+4 is a Duck.
+
+200 is a Duck.
+
+68 is a Duck.
+
+2 is a Duck.
+
+8 is a Duck.
+
+953 is a Goose!
+
+953 took 953's spot!
+
+8 is a Duck.
+
+953 is a Duck.
+
+4 is a Duck.
+
+200 is a Duck.
+
+68 is a Duck.
+
+953 is a Duck.
+
+8 is a Duck.
+
+953 is a Duck.
+
+4 is a Duck.
+
+200 is a Duck.
+
+68 is a Goose!
+
+953 is out!
+
+1 was chosen as the new it.
+
+8 is a Duck.
+
+953 is a Duck.
+
+4 is a Goose!
+
+1 is out!
+
+3 was chosen as the new it.
+
+8 is a Duck.
+
+4 is a Duck.
+
+200 is a Duck.
+
+68 is a Goose!
+
+3 is out!
+
+0 was chosen as the new it.
+
+8 is a Duck.
+
+4 is a Duck.
+
+200 is a Duck.
+
+8 is a Duck.
+
+4 is a Goose!
+
+0 took 4's spot!
+
+8 is a Duck.
+
+0 is a Duck.
+
+200 is a Duck.
+
+8 is a Duck.
+
+0 is a Duck.
+
+200 is a Duck.
+
+8 is a Duck.
+
+0 is a Duck.
+
+200 is a Goose!
+
+4 is out!
+
+0 was chosen as the new it.
+
+8 is a Duck.
+
+200 is a Duck.
+
+8 is a Goose!
+
+0 is out!
+
+Winner is 8!
+
+200 is a Duck.
+
+8 is a Duck.
+
+200 is a Duck.
+
+8 is a Goose!
+
+0 took 8's spot!
+
+Winner is 8!
+
+0 is a Duck.
+
+8 is a Duck.
+
+0 is a Goose!
+
+8 took 0's spot!
+
+Winner is 0!
+
+8 is a Duck.
+
+8 is a Goose!
+
+0 is out!
+

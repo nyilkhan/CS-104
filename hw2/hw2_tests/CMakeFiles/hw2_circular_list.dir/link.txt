@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw2_circular_list.a  CMakeFiles/hw2_circular_list.dir/home/cs104/cs104/hw-nyilkhan/hw2/circular_list_int.cpp.o
+/usr/bin/ranlib libhw2_circular_list.a

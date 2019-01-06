@@ -1,0 +1,34 @@
+Problem 1.
+
+Part A) 
+1 and 4 are the only acceptable ones.
+
+Part B)
+1, 2, and 4, but Sublime (4) is the reccomended one, since it is like Gedit(1) or Notespad but with more features
+
+Part C)
+2 is the only one acceptable 
+
+Part D) 
+2, 3, and 4 are correct
+
+Problem 2,
+
+Part A)
+Only 3, the terminal, is supported in this course, and we will use command line 
+
+Part B)
+1.
+git add hw1q2b.cpp
+git status
+git commit -m "This is a hw file"
+
+2. 
+git log
+
+Part C)
+It will not work correctly, since every commit needs a comment, and it won't work without it.
+
+Problem 6 - Part A
+It is possible to overwrite part of the buffer because the way we implemented it, the buffer will erase everything after a given point until the end, and won't stop after a desired distance. For example, if we have the words cat, dog, mouse, and elephant, in that order, and we ask it to erase dog, the buffer wil erase dog, and everything after it. Even if the user has access to a pointer to mouse for example, it would now be pointing towards a null character, because everything after dog has been erased.
+

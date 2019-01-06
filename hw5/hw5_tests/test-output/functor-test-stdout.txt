@@ -1,0 +1,443 @@
+
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorSimple.Numbers:
+------------------------------------------------------------------------------
+==19023== Memcheck, a memory error detector
+==19023== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19023== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19023== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorSimple.Numbers
+==19023== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorSimple.Numbers
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorSimple
+[ RUN      ] FunctorSimple.Numbers
+[       OK ] FunctorSimple.Numbers (9 ms)
+[----------] 1 test from FunctorSimple (14 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (40 ms total)
+[  PASSED  ] 1 test.
+==19023== 
+==19023== HEAP SUMMARY:
+==19023==     in use at exit: 72,704 bytes in 1 blocks
+==19023==   total heap usage: 336 allocs, 335 frees, 127,342 bytes allocated
+==19023== 
+==19023== LEAK SUMMARY:
+==19023==    definitely lost: 0 bytes in 0 blocks
+==19023==    indirectly lost: 0 bytes in 0 blocks
+==19023==      possibly lost: 0 bytes in 0 blocks
+==19023==    still reachable: 0 bytes in 0 blocks
+==19023==         suppressed: 72,704 bytes in 1 blocks
+==19023== 
+==19023== For counts of detected and suppressed errors, rerun with: -v
+==19023== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorSimple.CapitalLetters:
+------------------------------------------------------------------------------
+==19024== Memcheck, a memory error detector
+==19024== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19024== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19024== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorSimple.CapitalLetters
+==19024== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorSimple.CapitalLetters
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorSimple
+[ RUN      ] FunctorSimple.CapitalLetters
+[       OK ] FunctorSimple.CapitalLetters (9 ms)
+[----------] 1 test from FunctorSimple (14 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (40 ms total)
+[  PASSED  ] 1 test.
+==19024== 
+==19024== HEAP SUMMARY:
+==19024==     in use at exit: 72,704 bytes in 1 blocks
+==19024==   total heap usage: 336 allocs, 335 frees, 127,391 bytes allocated
+==19024== 
+==19024== LEAK SUMMARY:
+==19024==    definitely lost: 0 bytes in 0 blocks
+==19024==    indirectly lost: 0 bytes in 0 blocks
+==19024==      possibly lost: 0 bytes in 0 blocks
+==19024==    still reachable: 0 bytes in 0 blocks
+==19024==         suppressed: 72,704 bytes in 1 blocks
+==19024== 
+==19024== For counts of detected and suppressed errors, rerun with: -v
+==19024== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorSimple.Word1:
+------------------------------------------------------------------------------
+==19025== Memcheck, a memory error detector
+==19025== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19025== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19025== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorSimple.Word1
+==19025== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorSimple.Word1
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorSimple
+[ RUN      ] FunctorSimple.Word1
+[       OK ] FunctorSimple.Word1 (9 ms)
+[----------] 1 test from FunctorSimple (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (41 ms total)
+[  PASSED  ] 1 test.
+==19025== 
+==19025== HEAP SUMMARY:
+==19025==     in use at exit: 72,704 bytes in 1 blocks
+==19025==   total heap usage: 336 allocs, 335 frees, 127,328 bytes allocated
+==19025== 
+==19025== LEAK SUMMARY:
+==19025==    definitely lost: 0 bytes in 0 blocks
+==19025==    indirectly lost: 0 bytes in 0 blocks
+==19025==      possibly lost: 0 bytes in 0 blocks
+==19025==    still reachable: 0 bytes in 0 blocks
+==19025==         suppressed: 72,704 bytes in 1 blocks
+==19025== 
+==19025== For counts of detected and suppressed errors, rerun with: -v
+==19025== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorSimple.Word2:
+------------------------------------------------------------------------------
+==19026== Memcheck, a memory error detector
+==19026== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19026== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19026== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorSimple.Word2
+==19026== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorSimple.Word2
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorSimple
+[ RUN      ] FunctorSimple.Word2
+[       OK ] FunctorSimple.Word2 (10 ms)
+[----------] 1 test from FunctorSimple (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (42 ms total)
+[  PASSED  ] 1 test.
+==19026== 
+==19026== HEAP SUMMARY:
+==19026==     in use at exit: 72,704 bytes in 1 blocks
+==19026==   total heap usage: 336 allocs, 335 frees, 127,328 bytes allocated
+==19026== 
+==19026== LEAK SUMMARY:
+==19026==    definitely lost: 0 bytes in 0 blocks
+==19026==    indirectly lost: 0 bytes in 0 blocks
+==19026==      possibly lost: 0 bytes in 0 blocks
+==19026==    still reachable: 0 bytes in 0 blocks
+==19026==         suppressed: 72,704 bytes in 1 blocks
+==19026== 
+==19026== For counts of detected and suppressed errors, rerun with: -v
+==19026== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorSimple.RepeatedCharacter:
+------------------------------------------------------------------------------
+==19027== Memcheck, a memory error detector
+==19027== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19027== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19027== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorSimple.RepeatedCharacter
+==19027== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorSimple.RepeatedCharacter
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorSimple
+[ RUN      ] FunctorSimple.RepeatedCharacter
+[       OK ] FunctorSimple.RepeatedCharacter (9 ms)
+[----------] 1 test from FunctorSimple (14 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (40 ms total)
+[  PASSED  ] 1 test.
+==19027== 
+==19027== HEAP SUMMARY:
+==19027==     in use at exit: 72,704 bytes in 1 blocks
+==19027==   total heap usage: 336 allocs, 335 frees, 127,427 bytes allocated
+==19027== 
+==19027== LEAK SUMMARY:
+==19027==    definitely lost: 0 bytes in 0 blocks
+==19027==    indirectly lost: 0 bytes in 0 blocks
+==19027==      possibly lost: 0 bytes in 0 blocks
+==19027==    still reachable: 0 bytes in 0 blocks
+==19027==         suppressed: 72,704 bytes in 1 blocks
+==19027== 
+==19027== For counts of detected and suppressed errors, rerun with: -v
+==19027== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorSimple.LongWord:
+------------------------------------------------------------------------------
+==19028== Memcheck, a memory error detector
+==19028== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19028== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19028== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorSimple.LongWord
+==19028== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorSimple.LongWord
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorSimple
+[ RUN      ] FunctorSimple.LongWord
+[       OK ] FunctorSimple.LongWord (10 ms)
+[----------] 1 test from FunctorSimple (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (43 ms total)
+[  PASSED  ] 1 test.
+==19028== 
+==19028== HEAP SUMMARY:
+==19028==     in use at exit: 72,704 bytes in 1 blocks
+==19028==   total heap usage: 338 allocs, 337 frees, 127,419 bytes allocated
+==19028== 
+==19028== LEAK SUMMARY:
+==19028==    definitely lost: 0 bytes in 0 blocks
+==19028==    indirectly lost: 0 bytes in 0 blocks
+==19028==      possibly lost: 0 bytes in 0 blocks
+==19028==    still reachable: 0 bytes in 0 blocks
+==19028==         suppressed: 72,704 bytes in 1 blocks
+==19028== 
+==19028== For counts of detected and suppressed errors, rerun with: -v
+==19028== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorSimple.ExactValue:
+------------------------------------------------------------------------------
+==19029== Memcheck, a memory error detector
+==19029== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19029== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19029== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorSimple.ExactValue
+==19029== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorSimple.ExactValue
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorSimple
+[ RUN      ] FunctorSimple.ExactValue
+[       OK ] FunctorSimple.ExactValue (11 ms)
+[----------] 1 test from FunctorSimple (16 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (42 ms total)
+[  PASSED  ] 1 test.
+==19029== 
+==19029== HEAP SUMMARY:
+==19029==     in use at exit: 72,704 bytes in 1 blocks
+==19029==   total heap usage: 336 allocs, 335 frees, 127,363 bytes allocated
+==19029== 
+==19029== LEAK SUMMARY:
+==19029==    definitely lost: 0 bytes in 0 blocks
+==19029==    indirectly lost: 0 bytes in 0 blocks
+==19029==      possibly lost: 0 bytes in 0 blocks
+==19029==    still reachable: 0 bytes in 0 blocks
+==19029==         suppressed: 72,704 bytes in 1 blocks
+==19029== 
+==19029== For counts of detected and suppressed errors, rerun with: -v
+==19029== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorTiebreaker.SimpleLexicographic:
+------------------------------------------------------------------------------
+==19030== Memcheck, a memory error detector
+==19030== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19030== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19030== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorTiebreaker.SimpleLexicographic
+==19030== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorTiebreaker.SimpleLexicographic
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorTiebreaker
+[ RUN      ] FunctorTiebreaker.SimpleLexicographic
+[       OK ] FunctorTiebreaker.SimpleLexicographic (12 ms)
+[----------] 1 test from FunctorTiebreaker (17 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (43 ms total)
+[  PASSED  ] 1 test.
+==19030== 
+==19030== HEAP SUMMARY:
+==19030==     in use at exit: 72,704 bytes in 1 blocks
+==19030==   total heap usage: 336 allocs, 335 frees, 127,559 bytes allocated
+==19030== 
+==19030== LEAK SUMMARY:
+==19030==    definitely lost: 0 bytes in 0 blocks
+==19030==    indirectly lost: 0 bytes in 0 blocks
+==19030==      possibly lost: 0 bytes in 0 blocks
+==19030==    still reachable: 0 bytes in 0 blocks
+==19030==         suppressed: 72,704 bytes in 1 blocks
+==19030== 
+==19030== For counts of detected and suppressed errors, rerun with: -v
+==19030== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorTiebreaker.ComplexLexicographic:
+------------------------------------------------------------------------------
+==19031== Memcheck, a memory error detector
+==19031== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19031== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19031== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorTiebreaker.ComplexLexicographic
+==19031== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorTiebreaker.ComplexLexicographic
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorTiebreaker
+[ RUN      ] FunctorTiebreaker.ComplexLexicographic
+[       OK ] FunctorTiebreaker.ComplexLexicographic (11 ms)
+[----------] 1 test from FunctorTiebreaker (16 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (42 ms total)
+[  PASSED  ] 1 test.
+==19031== 
+==19031== HEAP SUMMARY:
+==19031==     in use at exit: 72,704 bytes in 1 blocks
+==19031==   total heap usage: 336 allocs, 335 frees, 127,581 bytes allocated
+==19031== 
+==19031== LEAK SUMMARY:
+==19031==    definitely lost: 0 bytes in 0 blocks
+==19031==    indirectly lost: 0 bytes in 0 blocks
+==19031==      possibly lost: 0 bytes in 0 blocks
+==19031==    still reachable: 0 bytes in 0 blocks
+==19031==         suppressed: 72,704 bytes in 1 blocks
+==19031== 
+==19031== For counts of detected and suppressed errors, rerun with: -v
+==19031== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorTiebreaker.NotLexicographic:
+------------------------------------------------------------------------------
+==19032== Memcheck, a memory error detector
+==19032== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19032== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19032== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorTiebreaker.NotLexicographic
+==19032== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorTiebreaker.NotLexicographic
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorTiebreaker
+[ RUN      ] FunctorTiebreaker.NotLexicographic
+[       OK ] FunctorTiebreaker.NotLexicographic (10 ms)
+[----------] 1 test from FunctorTiebreaker (16 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (43 ms total)
+[  PASSED  ] 1 test.
+==19032== 
+==19032== HEAP SUMMARY:
+==19032==     in use at exit: 72,704 bytes in 1 blocks
+==19032==   total heap usage: 336 allocs, 335 frees, 127,493 bytes allocated
+==19032== 
+==19032== LEAK SUMMARY:
+==19032==    definitely lost: 0 bytes in 0 blocks
+==19032==    indirectly lost: 0 bytes in 0 blocks
+==19032==      possibly lost: 0 bytes in 0 blocks
+==19032==    still reachable: 0 bytes in 0 blocks
+==19032==         suppressed: 72,704 bytes in 1 blocks
+==19032== 
+==19032== For counts of detected and suppressed errors, rerun with: -v
+==19032== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorTiebreaker.Equal:
+------------------------------------------------------------------------------
+==19033== Memcheck, a memory error detector
+==19033== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19033== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19033== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorTiebreaker.Equal
+==19033== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorTiebreaker.Equal
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorTiebreaker
+[ RUN      ] FunctorTiebreaker.Equal
+[       OK ] FunctorTiebreaker.Equal (12 ms)
+[----------] 1 test from FunctorTiebreaker (17 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (43 ms total)
+[  PASSED  ] 1 test.
+==19033== 
+==19033== HEAP SUMMARY:
+==19033==     in use at exit: 72,704 bytes in 1 blocks
+==19033==   total heap usage: 336 allocs, 335 frees, 127,356 bytes allocated
+==19033== 
+==19033== LEAK SUMMARY:
+==19033==    definitely lost: 0 bytes in 0 blocks
+==19033==    indirectly lost: 0 bytes in 0 blocks
+==19033==      possibly lost: 0 bytes in 0 blocks
+==19033==    still reachable: 0 bytes in 0 blocks
+==19033==         suppressed: 72,704 bytes in 1 blocks
+==19033== 
+==19033== For counts of detected and suppressed errors, rerun with: -v
+==19033== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorUnknownChars.TreatedAsZero:
+------------------------------------------------------------------------------
+==19034== Memcheck, a memory error detector
+==19034== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19034== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19034== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorUnknownChars.TreatedAsZero
+==19034== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorUnknownChars.TreatedAsZero
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorUnknownChars
+[ RUN      ] FunctorUnknownChars.TreatedAsZero
+[       OK ] FunctorUnknownChars.TreatedAsZero (11 ms)
+[----------] 1 test from FunctorUnknownChars (17 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (42 ms total)
+[  PASSED  ] 1 test.
+==19034== 
+==19034== HEAP SUMMARY:
+==19034==     in use at exit: 72,704 bytes in 1 blocks
+==19034==   total heap usage: 336 allocs, 335 frees, 127,471 bytes allocated
+==19034== 
+==19034== LEAK SUMMARY:
+==19034==    definitely lost: 0 bytes in 0 blocks
+==19034==    indirectly lost: 0 bytes in 0 blocks
+==19034==      possibly lost: 0 bytes in 0 blocks
+==19034==    still reachable: 0 bytes in 0 blocks
+==19034==         suppressed: 72,704 bytes in 1 blocks
+==19034== 
+==19034== For counts of detected and suppressed errors, rerun with: -v
+==19034== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+------------------------------------------------------------------------------
+OUTPUT OF TEST FunctorUnknownChars.EmptyString:
+------------------------------------------------------------------------------
+==19035== Memcheck, a memory error detector
+==19035== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==19035== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==19035== Command: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/functor_tests/functor_test --gtest_filter=FunctorUnknownChars.EmptyString
+==19035== 
+Running main() from gtest_main.cc
+Note: Google Test filter = FunctorUnknownChars.EmptyString
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from FunctorUnknownChars
+[ RUN      ] FunctorUnknownChars.EmptyString
+[       OK ] FunctorUnknownChars.EmptyString (13 ms)
+[----------] 1 test from FunctorUnknownChars (19 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (53 ms total)
+[  PASSED  ] 1 test.
+==19035== 
+==19035== HEAP SUMMARY:
+==19035==     in use at exit: 72,704 bytes in 1 blocks
+==19035==   total heap usage: 336 allocs, 335 frees, 127,427 bytes allocated
+==19035== 
+==19035== LEAK SUMMARY:
+==19035==    definitely lost: 0 bytes in 0 blocks
+==19035==    indirectly lost: 0 bytes in 0 blocks
+==19035==      possibly lost: 0 bytes in 0 blocks
+==19035==    still reachable: 0 bytes in 0 blocks
+==19035==         suppressed: 72,704 bytes in 1 blocks
+==19035== 
+==19035== For counts of detected and suppressed errors, rerun with: -v
+==19035== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

@@ -1,0 +1,28 @@
+Problem 1
+
+a) The status would be unmodified
+B) both files would be modified and untracked
+c) both files are staged now, and ready to be committed
+d) They are both modified
+e) readme.md is now staged and ready to be commited. fun_problems.txt has all of its changes discarded
+	The contents of fun_problems.txt would be what was last committed at "My opinion on Markdown", so it
+	looks like it would be empty.
+f) readme.md would be both staged to be commited and modified (changes not staged for commit). This is because 
+	it was added, but then changed, so one version is ready to be committed while the other still needs to be
+	added. 
+
+Problem 3
+
+1) A map would be the best option here, where the keyType is int and would hold zip code, and the 
+value type is also int and would hold voting statistics
+
+2) A bag of strings would be best here, because we do not care about the order of the students, we just want to know 
+who has solved it. There will also not be any repeat students (unless they have the exact same name)
+
+3) An array could work here, since we have a predefined number of items we want to store, and we can just store the index number
+
+4) A map would be the best option here, with keyType is a string  and would hold the Title and year, and 
+the value type is a set, of type string, which would hold the rating it got. The ratings would not be repeated and we don't care about the order, so a set would work well.
+
+Problem 4
+If the input linked list is 1,2,3,4,5 then the output would be 5,4,3,2,1. Basically the function reverses the linked list recursivley. It keeps calling the function on itself, and reassigning the Null pointer. Initially, it will make 5's next to be 4, and 4s next to be NULL. Then it will call funcB(3,5) which will make 4s next to be 3 and 3s next to be NULL. It keeps going like this, until every member in the list points to the previous one, and the first number will point to NULL, making the list come out backwards. THe funtion will also return the last number, or the new head pointer, so it is easy to keep track of.

@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -g3 -Og   CMakeFiles/selection_sort_runtime.dir/selection_sort_utils.cpp.o CMakeFiles/selection_sort_runtime.dir/selection_sort_runtime.cpp.o  -o selection_sort_runtime ../libhw2_selection_sort.a ../testing_utils/libtesting_utils.a /usr/lib/libgtest.a ../testing_utils/kwsys/libkwsys.a -lpthread /usr/lib/libgtest_main.a 

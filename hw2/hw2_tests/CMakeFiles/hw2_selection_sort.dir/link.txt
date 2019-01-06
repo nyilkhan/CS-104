@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw2_selection_sort.a  CMakeFiles/hw2_selection_sort.dir/home/cs104/cs104/hw-nyilkhan/hw2/selection_sort.cpp.o
+/usr/bin/ranlib libhw2_selection_sort.a

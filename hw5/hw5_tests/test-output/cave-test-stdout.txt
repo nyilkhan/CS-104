@@ -1,0 +1,690 @@
+
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.OneMove:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.OneMove
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.OneMove
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/OneMove/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/OneMove/output.txt
+[       OK ] Cave.OneMove (562 ms)
+[----------] 1 test from Cave (562 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (562 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.TwoMoves:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.TwoMoves
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.TwoMoves
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/TwoMoves/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/TwoMoves/output.txt
+[       OK ] Cave.TwoMoves (577 ms)
+[----------] 1 test from Cave (577 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (577 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.OneTripEW:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.OneTripEW
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.OneTripEW
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/OneTripEW/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/OneTripEW/output.txt
+[       OK ] Cave.OneTripEW (574 ms)
+[----------] 1 test from Cave (574 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (574 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.OneTripWE:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.OneTripWE
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.OneTripWE
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/OneTripWE/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/OneTripWE/output.txt
+[       OK ] Cave.OneTripWE (583 ms)
+[----------] 1 test from Cave (583 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (583 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.OneTripNS:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.OneTripNS
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.OneTripNS
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/OneTripNS/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/OneTripNS/output.txt
+[       OK ] Cave.OneTripNS (588 ms)
+[----------] 1 test from Cave (588 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (588 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.SmallLoop:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.SmallLoop
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.SmallLoop
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/SmallLoop/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/SmallLoop/output.txt
+[       OK ] Cave.SmallLoop (640 ms)
+[----------] 1 test from Cave (640 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (640 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.LargeLoop:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.LargeLoop
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.LargeLoop
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/LargeLoop/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/LargeLoop/output.txt
+[       OK ] Cave.LargeLoop (571 ms)
+[----------] 1 test from Cave (571 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (572 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.LoopRetrace:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.LoopRetrace
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.LoopRetrace
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/LoopRetrace/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/LoopRetrace/output.txt
+[       OK ] Cave.LoopRetrace (582 ms)
+[----------] 1 test from Cave (582 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (582 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.Branching:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.Branching
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.Branching
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/Branching/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/Branching/output.txt
+[       OK ] Cave.Branching (556 ms)
+[----------] 1 test from Cave (556 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (556 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST Cave.RightMovesWrongOrder:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = Cave.RightMovesWrongOrder
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from Cave
+[ RUN      ] Cave.RightMovesWrongOrder
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/Branching/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/Branching/output.txt
+[       OK ] Cave.RightMovesWrongOrder (610 ms)
+[----------] 1 test from Cave (610 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (610 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST CaveStress.TenThousandMoves:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = CaveStress.TenThousandMoves
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from CaveStress
+[ RUN      ] CaveStress.TenThousandMoves
+This test is executing your program with the following command line: 
+/usr/bin/valgrind --tool=memcheck -q --leak-check=yes --error-exitcode=113 /home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/TenThousandMoves/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/TenThousandMoves/output.txt
+[       OK ] CaveStress.TenThousandMoves (626 ms)
+[----------] 1 test from CaveStress (626 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (626 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST CaveStress.RandomMovements:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = CaveStress.RandomMovements
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from CaveStress
+[ RUN      ] CaveStress.RandomMovements
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomMovements/output.txt
+[       OK ] CaveStress.RandomMovements (129 ms)
+[----------] 1 test from CaveStress (129 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (129 ms total)
+[  PASSED  ] 1 test.
+------------------------------------------------------------------------------
+OUTPUT OF TEST CaveStress.RandomCorrectPath:
+------------------------------------------------------------------------------
+Running main() from gtest_main.cc
+Note: Google Test filter = CaveStress.RandomCorrectPath
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from CaveStress
+[ RUN      ] CaveStress.RandomCorrectPath
+ewwsesswnswnwwwnwwessssenwesessssewnsewsenwennswnwesenssweswnewnsewnnnnwnweswnnnnweeseeesensennwneew
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+wsweswwwsssennneweweeeeewswsewnwsswnwsswwnnsnwwssewnneesnsseennesennesewnenewwwwwewewssswnnneeenwene
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+wewnswnsswsnssnewsswnsnwewwsnnessnnwwssenwsneesseewwnnwwsneswnneessnnwssneewesnsennewsnnsnennsensewe
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+newwneewnssesnwswnwnnssnswswwwwesnesnwsennnswnenwnseswsenssswnesnwsnweeeenensnnssesenesnwnnsewwseews
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+sewsnwsswwsnnnwnenwnswwweeesnwwnnneswsnewswsnnenwweeswssnenewsnenwssseesnwwweeenseswsesssneennesnewn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nneeesswenwsnssnwswsenesnssenwenwewwwnnswnwseewwweweeewwnesensseeewesweswnnsnwswnenesnnsneswennwwwss
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+wssnewenewnsewsweesnssnsensewnnswwseewnweesnwnensnsnswsesnwwesewwneenssewnswnsnnsnwwenewnsewswewsnne
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nesssnwsseseewwnneewesenssnsnnwnwsnnnseennwwseeesnsnwwwneesswwnsssnesessnsnnswnwewwsseewwnwnnesnnnws
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+enssenwnwswesnesnewseswewwnesswesneewswwsnwnnwsenweswnessesneenewwsnwennwseewenwnewsnwsnweneseswnnsw
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+enwnnwwswwwwewwwesenwensnennwwnwenwewewwenssnenennsswswsnnsweewewesweseesswsnsweswnweeeweeeeneessesw
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nwessewnewnenennnnneeseswwwssnneeeswnweenenwnsweeewwwenseswswwesenwwwssnneeenwnwwssssswswsewsewnnwes
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+snwsseswwwnsewsnnwssswssnsensnwnewnwweewwweesennnewssswnwweeewweesewsesnswnsnnennnessnewnseeenwnnesn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+swneesnswwnsneewnsseenswnnwswwssnenwewwsewwnwweenweswweeseewneeweswsnneenessenswwnnsewwsnseensnwwsen
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nseewwwnwenwwswsnsnssweswnnwnwesennnnesnsennwssnesnwsnnesswnsnwsssswnwesessenwennsnsneneesweseeewwns
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+eweennewenweeesnnnwnseeennnnnesessessneseenwsewsnwesnewneswwnwsnnwnnwnwssssswwwnsesssnwwweswewsswwew
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nnsnwnsesenwesnnsewwnsswnewenwneswwseweewsneswwnewewseenwsnewwewneenwseswewsennseewnssnweswnwnsesnss
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+enseweeswwnwnsewsnnewesweswwnsssenesseeswnweseewesnwewwnwesenwwnnwswnnnseenwenwewssnewnseseenwwewnsw
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nennenewnwewewnseenweewswnnnswewesssswsnsnewweneswenwsweewsnsnennnnwewensssenewweswwnsewewesewswssws
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+sessewenenswseseswewnnnnewwnnwnnwnnnsnwewnnnnswnwsnesenssssewesnsssessesseewssssewenwnwnenswswewnnwn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+senwnesnennweewwnssnnwswwnnsnwenweweswwswnsnenewwnseewswsnseneenweweswesnsseenessnnseewwesswsnwseswn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+wenwwnewwsnnnennewewenswewwennsnwwenweensesenneswnsenwsswnwnswwesweesnssweewenswewewsswsssneewseeswe
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+neennwewwwwsnnnnnewwenssnnennwewnneewweeewswnwsnewewsnesenewwweewwssewesswssnnsweewsssssneeeewesswws
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+ssnnsennnessnswsennwswwewesseenswnsnwswwneenwwsswewenneeswwseenesnsenswwnnweweenesswnensnnwssswnssnn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+eseeeswsssnennnneewswesenwwesenewnwswwswenssnsennsnsswnsnnsweneenesewswnweeswnwenewwsssswsnnnenwwwnw
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+enewneweswnessssewsswewsewnneeesseewssseeewnnsnwsnsnesnssewwwnnnewwnnwwwssewnewennewnnnnwsenwewsewsw
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+seenesnwsnsswsnsnennesewssnneneenwnnnnesssweeennesnwsswwwennnwsssseswwswssnnewnwsswsnsnennsnesnwswwn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+enwwnnswsseswswwwweennwnsessswneensnwnssnwnwwnnwenswesseesesnnsesnswwsennnwnsesswweeeenenwnnensseesw
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+wnsewwwwnsnnnwwwesnwesenswnwnnssenwesewwseeenewnnnsssewswwwneewnweswnnssesenswnwesnweeesssnseeeewnse
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nswswsnenwssnnnwwsnwnnnswnwsssswswwesewenwnnnwswnsnsenessseswewnweenennnnesensssesneesssnneswsnenens
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+swesnnwnnnwweewenesnewewnseeewswnseeennewesewnesnwesnwsewnwewsswwwnsenewwwnsewewsnwswewweesssessnwen
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nseswenseewenwnwesnswwnnesnsnnswnnnewnneenesnwswewewenesnwswwssewsssenssnsnwsseensnweseswewwnswenwns
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+sessewseesnssnwwwswwsensenesnwweenssesenwesneennswensswwsnweswnwnnswweesnwswnswneeneeesnnsnwwnewnnwn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+snnseswssewnwewssnnewnnsweessnnsssswewswesennssewsnewnnsswnwenewennnnssnnwwenssewssnnewesewnnenwnssn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nnsseeennnsnwneeenewessnwnnwseeseewsewssnwnwnsewssnnewnsesesnnewnewwnwwnessesnnwewswwwsesnssswwwnnss
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+sesenwswwweswewnnnnwnssesewswnwesneeswensssnseeswsnenwwnsnnnswenwwsnwesenewnwnnsessssewenweeeneswnwn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+wnsewnswnswsswswweeneswnnswwwneenwswwnswewsnwwseesnwwneesnewenseeneswwseeenssenwswweenennensensewnse
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+sseneneeneewsseswwweeennnwnneswsewnswnswnsensewsnwesnewnswnsensensewnenwssessswwweeenwnnewwswwswswnn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+wswennesnsnwewssewsnnsnsssswwnnnsswewswwwwwwesenwsneswnweeeeeenewennssseennnnsnssnewnnewesnsnwsswene
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nswnsesesnswswnnswwwweswnwsnesnssnneewenswwsnsnssewnnsnsneenswewwssnnsnwsnesenweeeenssenensnwnwnsens
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+esenessensnsnsesenwwseswnsswsswwnenseneewssnwnwnssnnsesesnnewwswnswseennennsenwneeswnwnsnsnswnnwswnw
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+newnseseseseseeewewwesewswnnessnssesensenwnnwnneewewwssesseswnswnwnnsnnwssenewnweewewwwnwnwnwnwnsews
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+sssneensnsnwswseewnenneweweswswweewsenwnssnweeewsnsnewwwesnnseswnewweenenwewewsswsewwnenesnsnswwsnnn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nsweennnsnewssnwessnneswsswnsensnseensssnwswweweesnwweweenesnnnswwnsnswnsennenwssnnwesnnewsnssswwens
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+ewnweeesensnwwwnwsswnnseswweeweenwwenensesnsewnnesnwssewnsnwnswsweeswwewweenwnssenneseeesnswnwwwesew
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+seewswenenewnnwwwwseswnwenewsennnsneennweewnwnnewewewssesewwesswwsnssswnewswesenwneeeessewswswenewwn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+wweewsweswwnnseeswnwwnenswsewwsssenenswenessnwwesnsnweesnnwswenswswnnneewnenswseesenwwnsseenwenewwee
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+weswesseesweeennewwswessnwnwseeeeneewwnwewnnenswswenenswsseweseewwswwwwnesesnnweneewsswwwenwwnnwenwe
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+sessnewwwwswwwsnewnnsennwnsewseeewswsweswesewenensnswswewnwenwenenewwwnewnsesswnssewsneeeneeeewsnnwn
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nwsenesswwewsweeeweweswswsennwwwewweseewnsnnennwewewesswssnsewwnweeweeesswnenenwewewwweneweennwswnes
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+nwnwewwsnwnseeswneennsseneweewennnsseensswwwneenwsneswwseeennswwnnssswewwewswnnsswwsenwwnsesneeweses
+This test is executing your program with the following command line: 
+/home/cs104/cs104/hw-nyilkhan/hw5/cave
+Your program's STDIN was piped from: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/input.txt
+Your program's STDOUT was written to: /home/cs104/cs104/hw-nyilkhan/hw5/hw5_tests/cave_tests/testFiles/RandomCorrectPath/output.txt
+[       OK ] CaveStress.RandomCorrectPath (121 ms)
+[----------] 1 test from CaveStress (121 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (121 ms total)
+[  PASSED  ] 1 test.

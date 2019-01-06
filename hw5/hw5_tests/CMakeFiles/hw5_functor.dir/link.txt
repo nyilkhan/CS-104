@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw5_functor.a  CMakeFiles/hw5_functor.dir/home/cs104/cs104/hw-nyilkhan/hw5/functor.cpp.o
+/usr/bin/ranlib libhw5_functor.a

@@ -1,0 +1,83 @@
+SelSortRuntime.FindMin 1 0.55023
+SelSortRuntime.SelectionSort 1 1.88153
+FindMin.01_NullList 1 0.909468
+FindMin.02_OneElement 1 0.715171
+FindMin.03_ThreeElements 1 0.802568
+FindMin.04_Uniform 1 0.720152
+FindMin.05_UniformLarge 1 0.819359
+FindMin.06_AlternatingElements 1 0.748153
+FindMin.07_Descending 1 0.727308
+FindMin.08_Ascending 1 0.724864
+FindMin.09_ExtremeValues 1 0.741297
+SelectionSort.01_NullList 1 0.805472
+SelectionSort.02_TwoElements 1 0.907115
+SelectionSort.03_Ascending 1 0.843281
+SelectionSort.04_Descending 1 0.72992
+SelectionSort.05_Uniform 1 0.727544
+SelectionSort.06_Repeating 1 0.808712
+SelSortBasic.OneElementFindMin 1 0.808935
+SelSortBasic.ThreeElementFindMin 1 0.776543
+SelSortBasic.TenElementFindMin 1 0.733877
+SelSortBasic.ThreeElementSort 1 0.742919
+SelSortBasic.TenElementSort 1 0.74047
+ListInsert.NoElements 1 0.806687
+ListInsert.IntMax 1 0.736497
+ListInsert.IntMin 1 0.739188
+ListInsert.ThreeElements 1 0.817438
+ListInsert.50RandomElements 1 0.745021
+ListInsert.WrapAround_50RandomElements 1 0.84249
+ListInsert.10000RandomElements 1 1.58544
+ListBasic.ConstructionDestruction 1 0.711854
+ListBasic.OneItemAdd 1 0.736728
+ListBasic.ThreeItemAdd 1 0.742548
+ListBasic.Empty 1 0.809761
+ListBasic.OneItemRemove 1 0.808399
+ListBasic.ThreeItemRemove 1 0.723167
+ListBasic.Set 1 0.766557
+ListBasic.CircularIndicies 1 0.738243
+ListRemove.ZeroElementRemove 0 0
+ListRemove.RepeatedOneEleRemove 1 0.735201
+ListRemove.Head2Elements 1 0.737923
+ListRemove.Tail2Elements 1 0.713305
+ListRemove.Head3Elements 1 0.714607
+ListRemove.Middle3Elements 1 0.714152
+ListRemove.Tail3Elements 1 0.734333
+ListRemove.ThreeElementsAscending 1 1.06432
+ListRemove.ThreeElementsDescending 1 1.31173
+ListRemove.ThreeElementsWraparoundAscending 0 0
+ListRemove.ThreeElementsWraparoundDescending 1 1.31392
+ListRemove.50ElementsAscending 1 1.13143
+ListRemove.50ElementsDescending 1 0.927373
+ListRemove.50ElementBreakdownBuildup 1 1.20415
+ListRemove.50ElementsDescWraparound 1 1.00939
+ListSet.ZeroElementSet 0 0
+ListSet.Head3Elements 1 0.769177
+ListSet.Middle3Elements 1 1.1106
+ListSet.Tail3Elements 1 1.53622
+ListSet.ThreeElementsWraparound 0 0
+ListSet.50RandomElements 1 1.37123
+DDGRuntime.DDGRound 0 0
+DDGRoundBasic.TwoPlayers 1 1.7163
+DDGBasic.FivePlayers 1 2.64398
+DDGRound.TwoPlayers 0 0
+DDGRound.FivePlayers 0 0
+DDGRound.GooseSelectionProbability 0 0
+DDGRound.ChaseWinningProbability 0 0
+DDGRound.RandomStressTest 0 0
+DDGProgram.TwoPlayers 0 0
+DDGProgram.TwentyPlayers 0 0
+DDGProgram.TwoHundredPlayers 0 0
+---
+ListRemove.ZeroElementRemove
+ListRemove.ThreeElementsWraparoundAscending
+ListSet.ThreeElementsWraparound
+ListSet.ZeroElementSet
+DDGRound.TwoPlayers
+DDGRound.FivePlayers
+DDGRound.GooseSelectionProbability
+DDGRound.ChaseWinningProbability
+DDGRound.RandomStressTest
+DDGProgram.TwoPlayers
+DDGProgram.TwentyPlayers
+DDGProgram.TwoHundredPlayers
+DDGRuntime.DDGRound

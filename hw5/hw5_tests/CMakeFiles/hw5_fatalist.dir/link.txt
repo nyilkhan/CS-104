@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw5_fatalist.a  CMakeFiles/hw5_fatalist.dir/home/cs104/cs104/hw-nyilkhan/hw5/fatalist.cpp.o
+/usr/bin/ranlib libhw5_fatalist.a

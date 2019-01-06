@@ -1,0 +1,14 @@
+Test Fatalist.OneStudent passed
+Test Fatalist.AllEqual passed
+Test Fatalist.Higher170Grade passed
+Test Fatalist.Higher104Grade passed
+Test Fatalist.BothGradesHigher passed
+Test Fatalist.NonConformantData passed
+Test Fatalist.LargerConformantGroup passed
+Test Fatalist.LargerNonConformantGroup passed
+Test Fatalist.VeryNonConformantGroup passed
+Test FatalistStress.ConformantGroup passed
+Test FatalistStress.NonConformantGroup passed
+Test FatalistRuntime.FatalistHypothesis passed
+
+All Test Cases Passed

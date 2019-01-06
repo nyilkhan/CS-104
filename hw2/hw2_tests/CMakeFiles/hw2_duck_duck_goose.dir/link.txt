@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw2_duck_duck_goose.a  CMakeFiles/hw2_duck_duck_goose.dir/home/cs104/cs104/hw-nyilkhan/hw2/duck_duck_goose.cpp.o
+/usr/bin/ranlib libhw2_duck_duck_goose.a
